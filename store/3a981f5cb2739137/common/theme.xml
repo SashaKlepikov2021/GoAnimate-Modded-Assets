@@ -17526,6 +17526,28 @@
   <prop id="goani_new_6_newblast45.swf" name="Blast 45 degrees" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6874" money="0" sharing="0"/>
   <prop id="goani_new_6_dripmeme.swf" name="Drip Meme" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6875" money="0" sharing="0"/>
   <prop id="goani_new_6_electricaura.swf" name="Electric Aura" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6876" money="0" sharing="0"/>
+  <prop id="msp_handshape2" name="Hand" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_handshape_ncc_hand01.swf" enable="Y" is_premium="Y" aid="6877" money="0" sharing="0">
+    <state id="msp_handshape_ncc_hand01.swf" name="victory" enable="Y" default="Y"/>
+    <state id="msp_handshape_ncc_hand02.swf" name="open palm" enable="Y"/>
+    <state id="msp_handshape_ncc_hand03.swf" name="side back" enable="Y"/>
+    <state id="msp_handshape_ncc_hand04.swf" name="pointing back" enable="Y"/>
+    <state id="msp_handshape_ncc_hand05.swf" name="fist back" enable="Y"/>
+    <state id="msp_handshape_ncc_hand06.swf" name="side" enable="Y"/>
+   <state id="msp_handshape_ncc_hand07.swf" name="fist front" enable="Y"/>
+   <state id="msp_handshape_ncc_hand08.swf" name="back palm" enable="Y"/>
+   <state id="msp_handshape_ncc_hand09.swf" name="pointing front" enable="Y"/>
+   <state id="msp_handshape_ncc_hand10.swf" name="curl left" enable="Y"/>
+   <state id="msp_handshape_ncc_hand11.swf" name="curl right" enable="Y"/>
+   <state id="msp_handshape_ncc_hand12.swf" name="scratching" enable="Y"/>
+   <state id="msp_handshape_ncc_hand13.swf" name="bottom" enable="Y"/>
+   <state id="msp_handshape_ncc_hand14.swf" name="fingers only" enable="Y"/>
+  </prop>
+  <prop id="msp_nintendo_switch" name="Nintendo Switch" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nintendo_switch_ncc_nintendo_switch_front.swf" enable="Y" is_premium="N" aid="6878" money="0" sharing="0">
+		<state id="msp_nintendo_switch_ncc_nintendo_switch_front.swf" name="Front" enable="Y" default="Y" />
+		<state id="msp_nintendo_switch_ncc_nintendo_switch_side.swf" name="Side" enable="Y" />
+		<state id="msp_nintendo_switch_ncc_nintendo_switch_sideback.swf" name="Sideback" enable="Y" />
+		<state id="msp_nintendo_switch_ncc_nintendo_switch_back.swf" name="Back" enable="Y" />
+	</prop>
   <prop id="msp_flat_tv" name="Flat screen TV" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_flat_tv_flat_tv_front.swf" enable="Y" is_premium="N" aid="10463" money="0" sharing="0">
     <state id="msp_flat_tv_flat_tv_front.swf" name="front" enable="Y" default="Y"/>
     <state id="msp_flat_tv_flat_tv_front_non.swf" name="front transparent" enable="Y"/>
