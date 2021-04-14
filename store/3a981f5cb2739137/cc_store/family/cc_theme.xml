@@ -2950,37 +2950,37 @@
         </action>
 		<action id="sadx1" name="Very Sad" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="Y">
             <selection type="facial" facial_id="head_cry"/>
-            <selection type="lower_body" state_id="sad"/>
+            <selection type="lower_body" state_id="default"/>
             <selection type="skeleton" state_id="bounce"/>
             <selection type="upper_body" state_id="sad"/>
         </action>
 		<action id="sadx2" name="Sad of Rock" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="Y">
             <selection type="facial" facial_id="head_sad"/>
-            <selection type="lower_body" state_id="sad"/>
+            <selection type="lower_body" state_id="default"/>
             <selection type="skeleton" state_id="agree"/>
             <selection type="upper_body" state_id="sad"/>
         </action>
 		<action id="sadx3" name="Sad - Faint" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="Y">
             <selection type="facial" facial_id="head_sad"/>
-            <selection type="lower_body" state_id="sad"/>
+            <selection type="lower_body" state_id="default"/>
             <selection type="skeleton" state_id="faint"/>
             <selection type="upper_body" state_id="sad"/>
         </action>
 		<action id="sadx4" name="Sad - Headbang" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="Y">
             <selection type="facial" facial_id="head_sad"/>
-            <selection type="lower_body" state_id="sad"/>
+            <selection type="lower_body" state_id="default"/>
             <selection type="skeleton" state_id="headbang"/>
             <selection type="upper_body" state_id="sad"/>
         </action>
 		<action id="sadx5" name="Sad - Sit on floor" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="Y">
             <selection type="facial" facial_id="head_sad"/>
-            <selection type="lower_body" state_id="sad"/>
+            <selection type="lower_body" state_id="default"/>
             <selection type="skeleton" state_id="sit_on_floor"/>
             <selection type="upper_body" state_id="sad"/>
         </action>
 		<action id="sadx6" name="Sad - Twerk" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="Y">
             <selection type="facial" facial_id="head_sad"/>
-            <selection type="lower_body" state_id="sad"/>
+            <selection type="lower_body" state_id="default"/>
             <selection type="skeleton" state_id="twerk"/>
             <selection type="upper_body" state_id="sad"/>
         </action>
