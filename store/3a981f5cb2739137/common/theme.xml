@@ -24187,6 +24187,8 @@
   <effect id="goani_new_3_rainboweffect.swf" type="ANIME" resize="false" move="false" name="Rainbow effect" enable="Y" is_premium="N" aid="12303" money="0" sharing="0" display_order="0"/>
   <effect id="goani_new_3_jaileffect.swf" type="ANIME" resize="false" move="false" name="Jail effect" enable="Y" is_premium="N" aid="12304" money="0" sharing="0" display_order="0"/>
   <effect id="goani_new_6_firetransform.swf" type="ANIME" resize="false" move="false" name="Fire transform" enable="Y" is_premium="N" aid="12305" money="0" sharing="0" display_order="0"/>
+  <effect id="dim.swf" type="ANIME" resize="false" move="false" name="Dim" enable="Y" is_premium="N" aid="12306" money="0" sharing="0" display_order="0"/>
+  <effect id="spray_bunny.swf" type="ANIME" resize="false" move="false" name="Spray Can" enable="Y" is_premium="N" aid="12307" money="0" sharing="0" display_order="0"/>
   <effect id="ncc_jp_sakura.swf" type="ANIME" resize="false" move="false" name="Sakura" enable="Y" is_premium="N" aid="23194" money="0" sharing="0" display_order="0"/>
   <effect id="ncc_sci002fx.swf" type="ANIME" resize="false" move="false" name="Snow storm" enable="Y" is_premium="N" aid="23186" money="0" sharing="0" display_order="0"/>
   <effect id="ncc_sci003fx.swf" type="ANIME" resize="false" move="false" name="Screenviewer" enable="Y" is_premium="N" aid="23187" money="0" sharing="0" display_order="0"/>
