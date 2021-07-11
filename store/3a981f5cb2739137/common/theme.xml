@@ -23429,6 +23429,264 @@
   <sound id="goani_new_7_ffart.mp3" name="Fart Fuck" downloadtype="progressive" subtype="soundeffect" duration="2575" enable="Y" is_premium="N" aid="51921" money="0" sharing="0"/>
   <sound id="goani_new_7_shirtnoise.mp3" name="Shirt Noise" downloadtype="progressive" subtype="soundeffect" duration="5000" enable="Y" is_premium="N" aid="51922" money="0" sharing="0"/>
   <sound id="goani_new_7_shortburp.mp3" name="Short burp" downloadtype="progressive" subtype="soundeffect" duration="641" enable="Y" is_premium="N" aid="51923" money="0" sharing="0"/>
+  <sound id="goani_new_8_avs_clickdown.mp3" name="Click down (click)" downloadtype="progressive" subtype="soundeffect" duration="57" enable="Y" is_premium="N" aid="51924" money="0" sharing="0"/>
+  <sound id="goani_new_8_avs_clickup.mp3" name="Click up (release)" downloadtype="progressive" subtype="soundeffect" duration="57" enable="Y" is_premium="N" aid="51925" money="0" sharing="0"/>
+  <sound id="goani_new_8_avs_keypress.mp3" name="Keypress" downloadtype="progressive" subtype="soundeffect" duration="207" enable="Y" is_premium="N" aid="51926" money="0" sharing="0"/>
+  <sound id="goani_new_8_stipendiumpeccati.mp3" name="Stipendium Peccati" downloadtype="progressive" subtype="bgmusic" duration="134891" enable="Y" is_premium="N" aid="51927" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_summerstuds.mp3" name="Summer Studs" downloadtype="progressive" subtype="bgmusic" duration="308096" enable="Y" is_premium="N" aid="51928" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_intro2instru.mp3" name="Rain FM - Intro 2 Ins" downloadtype="progressive" subtype="soundeffect" duration="5552" enable="Y" is_premium="N" aid="51929" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_intro1instru.mp3" name="Rain FM - Intro 1 Ins" downloadtype="progressive" subtype="soundeffect" duration="6284" enable="Y" is_premium="N" aid="51930" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_ltkaleidoscopeinstru.mp3" name="Rain FM - LIthuanian Kaleidoscope Ins" downloadtype="progressive" subtype="soundeffect" duration="6075" enable="Y" is_premium="N" aid="51931" money="0" sharing="0"/>
+  <sound id="goani_new_8_freefromthepast.mp3" name="Free from the past" downloadtype="progressive" subtype="bgmusic" duration="329203" enable="Y" is_premium="N" aid="51932" money="0" sharing="0"/>
+  <sound id="goani_new_8_ohbeauty.mp3" name="Oh Beauty" downloadtype="progressive" subtype="bgmusic" duration="317082" enable="Y" is_premium="N" aid="51933" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_intro4.mp3" name="Rain FM - Intro 4" downloadtype="progressive" subtype="soundeffect" duration="5898" enable="Y" is_premium="N" aid="51934" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_intro3.mp3" name="Rain FM - Intro 3" downloadtype="progressive" subtype="soundeffect" duration="9027" enable="Y" is_premium="N" aid="51935" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_reklama2.mp3" name="Rain FM - Advertisement 2" downloadtype="progressive" subtype="soundeffect" duration="3300" enable="Y" is_premium="N" aid="51936" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_ltkaleidoscopeintro.mp3" name="Rain FM - Lithuanian Kaleidoscope Intro" downloadtype="progressive" subtype="soundeffect" duration="7663" enable="Y" is_premium="N" aid="51937" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_ltkaleidoscope.mp3" name="Rain FM - Lithuanian Kaleidoscope" downloadtype="progressive" subtype="soundeffect" duration="6037" enable="Y" is_premium="N" aid="51938" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_newsnext.mp3" name="Rain FM - News Next" downloadtype="progressive" subtype="soundeffect" duration="1982" enable="Y" is_premium="N" aid="51939" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_newsintro.mp3" name="Rain FM - News Intro" downloadtype="progressive" subtype="soundeffect" duration="8022" enable="Y" is_premium="N" aid="51940" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_newsbeep.mp3" name="Rain FM - News Countdown" downloadtype="progressive" subtype="soundeffect" duration="5005" enable="Y" is_premium="N" aid="51941" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_disconnect.mp3" name="Rain FM - Disconnect" downloadtype="progressive" subtype="soundeffect" duration="914" enable="Y" is_premium="N" aid="51942" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_legendsandmacaroni.mp3" name="Rain FM - Legends and Macaroni" downloadtype="progressive" subtype="soundeffect" duration="8893" enable="Y" is_premium="N" aid="51943" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_intro2.mp3" name="Rain FM - Intro 2" downloadtype="progressive" subtype="soundeffect" duration="5515" enable="Y" is_premium="N" aid="51944" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_intro1.mp3" name="Rain FM - Intro 1" downloadtype="progressive" subtype="soundeffect" duration="6258" enable="Y" is_premium="N" aid="51945" money="0" sharing="0"/>
+  <sound id="goani_new_8_rsl_reklama.mp3" name="Rain FM - Advertisement" downloadtype="progressive" subtype="soundeffect" duration="3413" enable="Y" is_premium="N" aid="51946" money="0" sharing="0"/>
+  <sound id="goani_new_8_hesburger.mp3" name="Hesburger Logo" downloadtype="progressive" subtype="soundeffect" duration="1382" enable="Y" is_premium="N" aid="51947" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10background.mp3" name="Windows 10 Background" downloadtype="progressive" subtype="soundeffect" duration="2242" enable="Y" is_premium="N" aid="51948" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10criticalstop.mp3" name="Windows 10 Critical Stop" downloadtype="progressive" subtype="soundeffect" duration="903" enable="Y" is_premium="N" aid="51949" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10ding.mp3" name="Windows 10 Ding" downloadtype="progressive" subtype="soundeffect" duration="1087" enable="Y" is_premium="N" aid="51950" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10error.mp3" name="Windows 10 Error" downloadtype="progressive" subtype="soundeffect" duration="972" enable="Y" is_premium="N" aid="51951" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10foreground.mp3" name="Windows 10 Foreground" downloadtype="progressive" subtype="soundeffect" duration="2158" enable="Y" is_premium="N" aid="51952" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10hardwarefail.mp3" name="Windows 10 Hardware Fail" downloadtype="progressive" subtype="soundeffect" duration="1512" enable="Y" is_premium="N" aid="51953" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10hardwareinsert.mp3" name="Windows 10 Hardware Insert" downloadtype="progressive" subtype="soundeffect" duration="1678" enable="Y" is_premium="N" aid="51954" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10hardwareremove.mp3" name="Windows 10 Hardware Remove" downloadtype="progressive" subtype="soundeffect" duration="1195" enable="Y" is_premium="N" aid="51955" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10logoff.mp3" name="Windows 10 Logoff" downloadtype="progressive" subtype="soundeffect" duration="1079" enable="Y" is_premium="N" aid="51956" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10logon.mp3" name="Windows 10 Logon" downloadtype="progressive" subtype="soundeffect" duration="4359" enable="Y" is_premium="N" aid="51957" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10navigation.mp3" name="Windows 10 Navigation Start" downloadtype="progressive" subtype="soundeffect" duration="64" enable="Y" is_premium="N" aid="51958" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10messagenotify.mp3" name="Windows 10 Notify Message" downloadtype="progressive" subtype="soundeffect" duration="1943" enable="Y" is_premium="N" aid="51959" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10calendarnotify.mp3" name="Windows 10 Notify Calendar" downloadtype="progressive" subtype="soundeffect" duration="2454" enable="Y" is_premium="N" aid="51960" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10emailnotify.mp3" name="Windows 10 Notify Email" downloadtype="progressive" subtype="soundeffect" duration="1835" enable="Y" is_premium="N" aid="51961" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10notifysys.mp3" name="Windows 10 Generic System Notify" downloadtype="progressive" subtype="soundeffect" duration="2198" enable="Y" is_premium="N" aid="51962" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10notify.mp3" name="Windows 10 Notify" downloadtype="progressive" subtype="soundeffect" duration="1289" enable="Y" is_premium="N" aid="51963" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10printcomplete.mp3" name="Windows 10 Print complete" downloadtype="progressive" subtype="soundeffect" duration="2006" enable="Y" is_premium="N" aid="51964" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10recycle.mp3" name="Windows 10 Recycle" downloadtype="progressive" subtype="soundeffect" duration="541" enable="Y" is_premium="N" aid="51965" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10ring.mp3" name="Windows 10 Ringin" downloadtype="progressive" subtype="soundeffect" duration="1128" enable="Y" is_premium="N" aid="51966" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows10usercontrol.mp3" name="Windows 10 User Control" downloadtype="progressive" subtype="soundeffect" duration="2139" enable="Y" is_premium="N" aid="51967" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows11usercontrol.mp3" name="Windows 11 User Control" downloadtype="progressive" subtype="soundeffect" duration="2111" enable="Y" is_premium="N" aid="51968" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows11startup.mp3" name="Windows 11 Startup" downloadtype="progressive" subtype="soundeffect" duration="4087" enable="Y" is_premium="N" aid="51969" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows11systemnotify.mp3" name="Windows 11 Generic System Notify" downloadtype="progressive" subtype="soundeffect" duration="1293" enable="Y" is_premium="N" aid="51970" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows11messagenotify.mp3" name="Windows 11 Notify Message" downloadtype="progressive" subtype="soundeffect" duration="1873" enable="Y" is_premium="N" aid="51971" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows11emailnotify.mp3" name="Windows 11 Notify Email" downloadtype="progressive" subtype="soundeffect" duration="1960" enable="Y" is_premium="N" aid="51972" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows11calendarnotify.mp3" name="Windows 11 Notify Calendar" downloadtype="progressive" subtype="soundeffect" duration="1989" enable="Y" is_premium="N" aid="51973" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows11hardwareremove.mp3" name="Windows 11 Hardware Remove" downloadtype="progressive" subtype="soundeffect" duration="399" enable="Y" is_premium="N" aid="51974" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows11hardwareinsert.mp3" name="Windows 11 Hardware Insert" downloadtype="progressive" subtype="soundeffect" duration="654" enable="Y" is_premium="N" aid="51975" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows11hardwarefail.mp3" name="Windows 11 Hardware Fail" downloadtype="progressive" subtype="soundeffect" duration="671" enable="Y" is_premium="N" aid="51976" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows11foreground.mp3" name="Windows 11 Foreground" downloadtype="progressive" subtype="soundeffect" duration="2111" enable="Y" is_premium="N" aid="51977" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows11background.mp3" name="Windows 11 Background" downloadtype="progressive" subtype="soundeffect" duration="1290" enable="Y" is_premium="N" aid="51978" money="0" sharing="0"/>
+  <sound id="goani_new_8_cryingduckmemealt.mp3" name="Crying Duck Full Meme" downloadtype="progressive" subtype="bgmusic" duration="159106" enable="Y" is_premium="N" aid="51979" money="0" sharing="0"/>
+  <sound id="goani_new_8_instrumentalshorts11.mp3" name="Instrumental Shorts 11" downloadtype="progressive" subtype="bgmusic" duration="17490" enable="Y" is_premium="N" aid="51980" money="0" sharing="0"/>
+  <sound id="goani_new_8_seekndestroy.mp3" name="Seek n Destroy" downloadtype="progressive" subtype="bgmusic" duration="226007" enable="Y" is_premium="N" aid="51981" money="0" sharing="0"/>
+  <sound id="goani_new_8_psymusic.mp3" name="Psychedelic Music" downloadtype="progressive" subtype="bgmusic" duration="659217" enable="Y" is_premium="N" aid="51982" money="0" sharing="0"/>
+  <sound id="goani_new_8_omegaevilchargestop.mp3" name="Omega Evil Charge Stop" downloadtype="progressive" subtype="soundeffect" duration="5906" enable="Y" is_premium="N" aid="51983" money="0" sharing="0"/>
+  <sound id="goani_new_8_omegaevilcharge.mp3" name="Omega Evil Charge" downloadtype="progressive" subtype="soundeffect" duration="4939" enable="Y" is_premium="N" aid="51984" money="0" sharing="0"/>
+  <sound id="goani_new_8_mechawalk.mp3" name="Mecha Sonic Walk" downloadtype="progressive" subtype="soundeffect" duration="734" enable="Y" is_premium="N" aid="51985" money="0" sharing="0"/>
+  <sound id="goani_new_8_scouterscan.mp3" name="Scouter Scan" downloadtype="progressive" subtype="soundeffect" duration="2876" enable="Y" is_premium="N" aid="51986" money="0" sharing="0"/>
+  <sound id="goani_new_8_superimplosion.mp3" name="Super Implosion" downloadtype="progressive" subtype="soundeffect" duration="6022" enable="Y" is_premium="N" aid="51987" money="0" sharing="0"/>
+  <sound id="goani_new_8_earthquakedirtsnd.mp3" name="Dirt Earthquake" downloadtype="progressive" subtype="soundeffect" duration="3920" enable="Y" is_premium="N" aid="51988" money="0" sharing="0"/>
+  <sound id="goani_new_8_sonicspring.mp3" name="Sonic Spring" downloadtype="progressive" subtype="soundeffect" duration="890" enable="Y" is_premium="N" aid="51989" money="0" sharing="0"/>
+  <sound id="goani_new_8_smb2throwveg.mp3" name="SMB2 - Throw Vegetable" downloadtype="progressive" subtype="soundeffect" duration="655" enable="Y" is_premium="N" aid="51990" money="0" sharing="0"/>
+  <sound id="goani_new_8_megamanbattlerock.mp3" name="Megaman Rock Battle" downloadtype="progressive" subtype="bgmusic" duration="14578" enable="Y" is_premium="N" aid="51991" money="0" sharing="0"/>
+  <sound id="goani_new_8_megamancharge.mp3" name="Megaman Charge" downloadtype="progressive" subtype="soundeffect" duration="3607" enable="Y" is_premium="N" aid="51992" money="0" sharing="0"/>
+  <sound id="goani_new_8_vgdcwait.mp3" name="VGDC scratch disc" downloadtype="progressive" subtype="soundeffect" duration="943" enable="Y" is_premium="N" aid="51993" money="0" sharing="0"/>
+  <sound id="goani_new_8_sonicmonitorpop.mp3" name="Sonic Monitor Pop" downloadtype="progressive" subtype="soundeffect" duration="734" enable="Y" is_premium="N" aid="51994" money="0" sharing="0"/>
+  <sound id="goani_new_8_sonicspinready.mp3" name="Sonic Ready Spin" downloadtype="progressive" subtype="soundeffect" duration="3215" enable="Y" is_premium="N" aid="51995" money="0" sharing="0"/>
+  <sound id="goani_new_8_pistolgunstrong.mp3" name="Pistol Strong Shoot" downloadtype="progressive" subtype="soundeffect" duration="2042" enable="Y" is_premium="N" aid="51996" money="0" sharing="0"/>
+  <sound id="goani_new_8_megamantransform.mp3" name="Megaman Transform" downloadtype="progressive" subtype="soundeffect" duration="1021" enable="Y" is_premium="N" aid="51997" money="0" sharing="0"/>
+  <sound id="goani_new_8_mariosuggestion.mp3" name="Mario Suggest" downloadtype="progressive" subtype="soundeffect" duration="892" enable="Y" is_premium="N" aid="51998" money="0" sharing="0"/>
+  <sound id="goani_new_8_vgdcpresentsmusic.mp3" name="VGDC Presents Music" downloadtype="progressive" subtype="bgmusic" duration="124572" enable="Y" is_premium="N" aid="51999" money="0" sharing="0"/>
+  <sound id="goani_new_8_mariodiscotheme.mp3" name="Mario Disco piano theme" downloadtype="progressive" subtype="bgmusic" duration="318977" enable="Y" is_premium="N" aid="52000" money="0" sharing="0"/>
+  <sound id="goani_new_8_yoshiislandjunglebeat.mp3" name="Yoshi Island Jungle" downloadtype="progressive" subtype="bgmusic" duration="621756" enable="Y" is_premium="N" aid="52001" money="0" sharing="0"/>
+  <sound id="goani_new_8_strongrain.mp3" name="Strong rain" downloadtype="progressive" subtype="soundeffect" duration="13745" enable="Y" is_premium="N" aid="52002" money="0" sharing="0"/>
+  <sound id="goani_new_8_threetimelightningfse.mp3" name="Triple Lightning" downloadtype="progressive" subtype="soundeffect" duration="9702" enable="Y" is_premium="N" aid="52003" money="0" sharing="0"/>
+  <sound id="goani_new_8_explosionlongscenefse.mp3" name="Long explosion scene" downloadtype="progressive" subtype="soundeffect" duration="6780" enable="Y" is_premium="N" aid="52004" money="0" sharing="0"/>
+  <sound id="goani_new_8_bigbeamblastloud.mp3" name="Big Beam Blast Loud" downloadtype="progressive" subtype="soundeffect" duration="5854" enable="Y" is_premium="N" aid="52005" money="0" sharing="0"/>
+  <sound id="goani_new_8_strongpunchloud.mp3" name="Strong Punch Loud" downloadtype="progressive" subtype="soundeffect" duration="1465" enable="Y" is_premium="N" aid="52006" money="0" sharing="0"/>
+  <sound id="goani_new_8_mecharockmus.mp3" name="Mecha Sonic Rock Music" downloadtype="progressive" subtype="bgmusic" duration="154131" enable="Y" is_premium="N" aid="52007" money="0" sharing="0"/>
+  <sound id="goani_new_8_dbzoutro.mp3" name="DBZ Outro" downloadtype="progressive" subtype="soundeffect" duration="20848" enable="Y" is_premium="N" aid="52008" money="0" sharing="0"/>
+  <sound id="goani_new_8_fukbees.mp3" name="Fuck Bees" downloadtype="progressive" subtype="soundeffect" duration="56690" enable="Y" is_premium="N" aid="52009" money="0" sharing="0"/>
+  <sound id="goani_new_8_letsgocrazy.mp3" name="Let's Go Crazy" downloadtype="progressive" subtype="soundeffect" duration="2092" enable="Y" is_premium="N" aid="52010" money="0" sharing="0"/>
+  <sound id="goani_new_8_yoshipop.mp3" name="Yoshi Egg Pop" downloadtype="progressive" subtype="soundeffect" duration="525" enable="Y" is_premium="N" aid="52011" money="0" sharing="0"/>
+  <sound id="goani_new_8_spindash8bitspeed.mp3" name="Spin Dash 8-bit" downloadtype="progressive" subtype="soundeffect" duration="1047" enable="Y" is_premium="N" aid="52012" money="0" sharing="0"/>
+  <sound id="goani_new_8_fairydustintro.mp3" name="Fairydust Intro" downloadtype="progressive" subtype="soundeffect" duration="2980" enable="Y" is_premium="N" aid="52013" money="0" sharing="0"/>
+  <sound id="goani_new_8_dbzgroundacc.mp3" name="DBZ Accurate Ground Hit" downloadtype="progressive" subtype="soundeffect" duration="943" enable="Y" is_premium="N" aid="52014" money="0" sharing="0"/>
+  <sound id="goani_new_8_fuksweetheart.mp3" name="Fuck Sweetheart" downloadtype="progressive" subtype="soundeffect" duration="3243" enable="Y" is_premium="N" aid="52015" money="0" sharing="0"/>
+  <sound id="goani_new_8_vexentointerstellar.mp3" name="Vexento Interstellar" downloadtype="progressive" subtype="bgmusic" duration="315711" enable="Y" is_premium="N" aid="52016" money="0" sharing="0"/>
+  <sound id="goani_new_8_avmMusic.mp3" name="Animation vs Minecraft - Note Blocks" downloadtype="progressive" subtype="bgmusic" duration="129020" enable="Y" is_premium="N" aid="52017" money="0" sharing="0"/>
+  <sound id="goani_new_8_funkycity8bit.mp3" name="Funky City 8-bit" downloadtype="progressive" subtype="bgmusic" duration="324037" enable="Y" is_premium="N" aid="52018" money="0" sharing="0"/>
+  <sound id="goani_new_8_appelclick.mp3" name="Appel - Click" downloadtype="progressive" subtype="soundeffect" duration="176" enable="Y" is_premium="N" aid="52019" money="0" sharing="0"/>
+  <sound id="goani_new_8_appelstomp.mp3" name="Appel - Stomp" downloadtype="progressive" subtype="soundeffect" duration="1271" enable="Y" is_premium="N" aid="52020" money="0" sharing="0"/>
+  <sound id="goani_new_8_appelwoosh3.mp3" name="Appel - Woosh" downloadtype="progressive" subtype="soundeffect" duration="649" enable="Y" is_premium="N" aid="52021" money="0" sharing="0"/>
+  <sound id="goani_new_8_appelexplosion.mp3" name="Appel - Explosion" downloadtype="progressive" subtype="soundeffect" duration="951" enable="Y" is_premium="N" aid="52022" money="0" sharing="0"/>
+  <sound id="goani_new_8_appelboing.mp3" name="Appel - Boing" downloadtype="progressive" subtype="soundeffect" duration="743" enable="Y" is_premium="N" aid="52023" money="0" sharing="0"/>
+  <sound id="goani_new_8_appelcrumble.mp3" name="Appel - Crumble" downloadtype="progressive" subtype="soundeffect" duration="1639" enable="Y" is_premium="N" aid="52024" money="0" sharing="0"/>
+  <sound id="goani_new_8_appelspring.mp3" name="Appel - Spring" downloadtype="progressive" subtype="soundeffect" duration="835" enable="Y" is_premium="N" aid="52025" money="0" sharing="0"/>
+  <sound id="goani_new_8_appeldooropen.mp3" name="Appel - Door open" downloadtype="progressive" subtype="soundeffect" duration="1059" enable="Y" is_premium="N" aid="52026" money="0" sharing="0"/>
+  <sound id="goani_new_8_thudroboroo.mp3" name="Appel - Thud" downloadtype="progressive" subtype="soundeffect" duration="503" enable="Y" is_premium="N" aid="52027" money="0" sharing="0"/>
+  <sound id="goani_new_8_appellauncher.mp3" name="Appel - Launcher" downloadtype="progressive" subtype="soundeffect" duration="522" enable="Y" is_premium="N" aid="52028" money="0" sharing="0"/>
+  <sound id="goani_new_8_appelcrunch.mp3" name="Appel - Crunch" downloadtype="progressive" subtype="soundeffect" duration="461" enable="Y" is_premium="N" aid="52029" money="0" sharing="0"/>
+  <sound id="goani_new_8_appelcoinre.mp3" name="Appel - Coin" downloadtype="progressive" subtype="soundeffect" duration="2093" enable="Y" is_premium="N" aid="52030" money="0" sharing="0"/>
+  <sound id="goani_new_8_appelcoin.mp3" name="Appel - Coin Short" downloadtype="progressive" subtype="soundeffect" duration="527" enable="Y" is_premium="N" aid="52031" money="0" sharing="0"/>
+  <sound id="goani_new_8_squishycartoon.mp3" name="Appel - Squish" downloadtype="progressive" subtype="soundeffect" duration="988" enable="Y" is_premium="N" aid="52032" money="0" sharing="0"/>
+  <sound id="goani_new_8_appelcomplete.mp3" name="Appel - Complete" downloadtype="progressive" subtype="soundeffect" duration="1107" enable="Y" is_premium="N" aid="52033" money="0" sharing="0"/>
+  <sound id="goani_new_8_boom8bit.mp3" name="Appel - 8-bit boom" downloadtype="progressive" subtype="soundeffect" duration="952" enable="Y" is_premium="N" aid="52034" money="0" sharing="0"/>
+  <sound id="goani_new_8_appelboom.mp3" name="Appel - Boom" downloadtype="progressive" subtype="soundeffect" duration="1395" enable="Y" is_premium="N" aid="52035" money="0" sharing="0"/>
+  <sound id="goani_new_8_flagappel.mp3" name="Appel - Flag" downloadtype="progressive" subtype="soundeffect" duration="1124" enable="Y" is_premium="N" aid="52036" money="0" sharing="0"/>
+  <sound id="goani_new_8_basicmeleehit.mp3" name="Appel - Basic melee hit" downloadtype="progressive" subtype="soundeffect" duration="176" enable="Y" is_premium="N" aid="52037" money="0" sharing="0"/>
+  <sound id="goani_new_8_startappel.mp3" name="Appel - Start" downloadtype="progressive" subtype="soundeffect" duration="1397" enable="Y" is_premium="N" aid="52038" money="0" sharing="0"/>
+  <sound id="goani_new_8_start28bit.mp3" name="Appel - Start 2" downloadtype="progressive" subtype="soundeffect" duration="952" enable="Y" is_premium="N" aid="52039" money="0" sharing="0"/>
+  <sound id="goani_new_8_jumpjeckkech.mp3" name="Appel - Jump Jeckkech" downloadtype="progressive" subtype="soundeffect" duration="209" enable="Y" is_premium="N" aid="52040" money="0" sharing="0"/>
+  <sound id="goani_new_8_jump8bit.mp3" name="Appel - Jump" downloadtype="progressive" subtype="soundeffect" duration="183" enable="Y" is_premium="N" aid="52041" money="0" sharing="0"/>
+  <sound id="goani_new_8_walljump8bit.mp3" name="Appel - Wall Jump" downloadtype="progressive" subtype="soundeffect" duration="145" enable="Y" is_premium="N" aid="52042" money="0" sharing="0"/>
+  <sound id="goani_new_8_ssbmmultiman1remix.mp3" name="Super Smash Bros Melee - Multi-man 1 Remix" downloadtype="progressive" subtype="bgmusic" duration="307000" enable="Y" is_premium="N" aid="52043" money="0" sharing="0"/>
+  <sound id="goani_new_8_lemonjoyonce.mp3" name="Lemon Joy - Once" downloadtype="progressive" subtype="bgmusic" duration="422022" enable="Y" is_premium="N" aid="52044" money="0" sharing="0"/>
+  <sound id="goani_new_8_summermine.mp3" name="Summer Mine" downloadtype="progressive" subtype="bgmusic" duration="247564" enable="Y" is_premium="N" aid="52045" money="0" sharing="0"/>
+  <sound id="goani_new_8_groupfunkyraindrops.mp3" name="Group Funky - Raindrops" downloadtype="progressive" subtype="bgmusic" duration="315854" enable="Y" is_premium="N" aid="52046" money="0" sharing="0"/>
+  <sound id="goani_new_8_greatestpiano.mp3" name="Greatest Piano" downloadtype="progressive" subtype="bgmusic" duration="127159" enable="Y" is_premium="N" aid="52047" money="0" sharing="0"/>
+  <sound id="goani_new_8_a300happymusic.mp3" name="Samsung A300 Happy" downloadtype="progressive" subtype="bgmusic" duration="52618" enable="Y" is_premium="N" aid="52048" money="0" sharing="0"/>
+  <sound id="goani_new_8_mrburnsexcellent.mp3" name="Mr Burns - Excellent" downloadtype="progressive" subtype="soundeffect" duration="817" enable="Y" is_premium="N" aid="52049" money="0" sharing="0"/>
+  <sound id="goani_new_8_simpsonsarcadechoir.mp3" name="The Simpsons Arcade Choir" downloadtype="progressive" subtype="soundeffect" duration="6559" enable="Y" is_premium="N" aid="52050" money="0" sharing="0"/>
+  <sound id="goani_new_8_vx3400cmxboot.mp3" name="LG VX3400 CMX" downloadtype="progressive" subtype="soundeffect" duration="10466" enable="Y" is_premium="N" aid="52051" money="0" sharing="0"/>
+  <sound id="goani_new_8_banvoice.mp3" name="Ban voice" downloadtype="progressive" subtype="soundeffect" duration="538" enable="Y" is_premium="N" aid="52052" money="0" sharing="0"/>
+  <sound id="goani_new_8_dreamshitassmusic.mp3" name="Hey shitass Dream" downloadtype="progressive" subtype="bgmusic" duration="114411" enable="Y" is_premium="N" aid="52053" money="0" sharing="0"/>
+  <sound id="goani_new_8_speedrunkeyboardtyping.mp3" name="Speedrun Keyboard" downloadtype="progressive" subtype="soundeffect" duration="15139" enable="Y" is_premium="N" aid="52054" money="0" sharing="0"/>
+  <sound id="goani_new_8_sa3mmremastered2.mp3" name="Sonic Advance 3 Main Menu Remastered 2" downloadtype="progressive" subtype="bgmusic" duration="50670" enable="Y" is_premium="N" aid="52055" money="0" sharing="0"/>
+  <sound id="goani_new_8_sa3mmremastered.mp3" name="Sonic Advance 3 Main Menu Remastered" downloadtype="progressive" subtype="bgmusic" duration="149101" enable="Y" is_premium="N" aid="52056" money="0" sharing="0"/>
+  <sound id="goani_new_8_laurisreiniksmaybe.mp3" name="Lauris Reiniks - Maybe" downloadtype="progressive" subtype="bgmusic" duration="319590" enable="Y" is_premium="N" aid="52057" money="0" sharing="0"/>
+  <sound id="goani_new_8_monikaidoalove.mp3" name="Monika - I do love" downloadtype="progressive" subtype="bgmusic" duration="353079" enable="Y" is_premium="N" aid="52058" money="0" sharing="0"/>
+  <sound id="goani_new_8_mmgsoundtrackpiano.mp3" name="MMG - Soundtrack" downloadtype="progressive" subtype="bgmusic" duration="26137" enable="Y" is_premium="N" aid="52059" money="0" sharing="0"/>
+  <sound id="goani_new_8_pikasogivegift.mp3" name="Pikaso - Gave Gift" downloadtype="progressive" subtype="bgmusic" duration="355534" enable="Y" is_premium="N" aid="52060" money="0" sharing="0"/>
+  <sound id="goani_new_8_ineedlove.mp3" name="I need love" downloadtype="progressive" subtype="bgmusic" duration="315932" enable="Y" is_premium="N" aid="52061" money="0" sharing="0"/>
+  <sound id="goani_new_8_69lithuaniangoodforus.mp3" name="69 danguje - Good for us" downloadtype="progressive" subtype="bgmusic" duration="254460" enable="Y" is_premium="N" aid="52062" money="0" sharing="0"/>
+  <sound id="goani_new_8_69mutedlove.mp3" name="69 danguje - Muted love" downloadtype="progressive" subtype="bgmusic" duration="251795" enable="Y" is_premium="N" aid="52063" money="0" sharing="0"/>
+  <sound id="goani_new_8_69live.mp3" name="69 danguje - Live" downloadtype="progressive" subtype="bgmusic" duration="419436" enable="Y" is_premium="N" aid="52064" money="0" sharing="0"/>
+  <sound id="goani_new_8_69weather.mp3" name="69 danguje - Weather" downloadtype="progressive" subtype="bgmusic" duration="311048" enable="Y" is_premium="N" aid="52065" money="0" sharing="0"/>
+  <sound id="goani_new_8_69devilishspeed.mp3" name="69 danguje - Devilish Speed" downloadtype="progressive" subtype="bgmusic" duration="332677" enable="Y" is_premium="N" aid="52066" money="0" sharing="0"/>
+  <sound id="goani_new_8_69lovesymphony.mp3" name="69 danguje - Love Symphony" downloadtype="progressive" subtype="bgmusic" duration="450349" enable="Y" is_premium="N" aid="52067" money="0" sharing="0"/>
+  <sound id="goani_new_8_69summer.mp3" name="69 danguje - Summer" downloadtype="progressive" subtype="bgmusic" duration="225454" enable="Y" is_premium="N" aid="52068" money="0" sharing="0"/>
+  <sound id="goani_new_8_fbiopenup.mp3" name="FBI Open Up - Voice" downloadtype="progressive" subtype="soundeffect" duration="1160" enable="Y" is_premium="N" aid="52069" money="0" sharing="0"/>
+  <sound id="goani_new_8_trololosing.mp3" name="Trololo Along" downloadtype="progressive" subtype="bgmusic" duration="241451" enable="Y" is_premium="N" aid="52070" money="0" sharing="0"/>
+  <sound id="goani_new_8_prestigepc.mp3" name="Pickcrafter - Prestige Pickaxe" downloadtype="progressive" subtype="soundeffect" duration="6822" enable="Y" is_premium="N" aid="52071" money="0" sharing="0"/>
+  <sound id="goani_new_8_mariopaint_musicmaker1.mp3" name="Mario Paint - Music Maker 1" downloadtype="progressive" subtype="bgmusic" duration="17646" enable="Y" is_premium="N" aid="52072" money="0" sharing="0"/>
+  <sound id="goani_new_8_mariopaint_eraserhonk.mp3" name="Mario Paint - Eraser Honk" downloadtype="progressive" subtype="soundeffect" duration="833" enable="Y" is_premium="N" aid="52073" money="0" sharing="0"/>
+  <sound id="goani_new_8_mariopaint_linerightleft.mp3" name="Mario Paint - Line Sides" downloadtype="progressive" subtype="soundeffect" duration="4445" enable="Y" is_premium="N" aid="52074" money="0" sharing="0"/>
+  <sound id="goani_new_8_mariopaint_eraserlinescratch.mp3" name="Mario Paint - Eraser Line Scratch" downloadtype="progressive" subtype="soundeffect" duration="9122" enable="Y" is_premium="N" aid="52075" money="0" sharing="0"/>
+  <sound id="goani_new_8_mariopaint_eraserscramble.mp3" name="Mario Paint - Eraser Scramble" downloadtype="progressive" subtype="soundeffect" duration="9354" enable="Y" is_premium="N" aid="52076" money="0" sharing="0"/>
+  <sound id="goani_new_8_mariopaint_eraserwater.mp3" name="Mario Paint - Eraser Bucket" downloadtype="progressive" subtype="soundeffect" duration="13660" enable="Y" is_premium="N" aid="52077" money="0" sharing="0"/>
+  <sound id="goani_new_8_mariopaint_erasercolorloss.mp3" name="Mario Paint - Eraser Color Posterize" downloadtype="progressive" subtype="soundeffect" duration="3004" enable="Y" is_premium="N" aid="52078" money="0" sharing="0"/>
+  <sound id="goani_new_8_mariopaint_ost3.mp3" name="Mario Paint - Mysterious" downloadtype="progressive" subtype="bgmusic" duration="336153" enable="Y" is_premium="N" aid="52079" money="0" sharing="0"/>
+  <sound id="goani_new_8_mariopaint_ost2.mp3" name="Mario Paint - Monkey Song" downloadtype="progressive" subtype="bgmusic" duration="309084" enable="Y" is_premium="N" aid="52080" money="0" sharing="0"/>
+  <sound id="goani_new_8_mariopaint_ost1.mp3" name="Mario Paint - Creative Exercise" downloadtype="progressive" subtype="bgmusic" duration="200204" enable="Y" is_premium="N" aid="52081" money="0" sharing="0"/>
+  <sound id="goani_new_8_laimesziburysvocals.mp3" name="Laimes Ziburys - Vocals" downloadtype="progressive" subtype="bgmusic" duration="311112" enable="Y" is_premium="N" aid="52082" money="0" sharing="0"/>
+  <sound id="goani_new_8_cartoonsong.mp3" name="Cartoon song" downloadtype="progressive" subtype="bgmusic" duration="110248" enable="Y" is_premium="N" aid="52083" money="0" sharing="0"/>
+  <sound id="goani_new_8_samsungend.mp3" name="Samsung Fun Club end" downloadtype="progressive" subtype="soundeffect" duration="7740" enable="Y" is_premium="N" aid="52084" money="0" sharing="0"/>
+  <sound id="goani_new_8_69skyflying.mp3" name="69 danguje - Flying" downloadtype="progressive" subtype="bgmusic" duration="310238" enable="Y" is_premium="N" aid="52085" money="0" sharing="0"/>
+  <sound id="goani_new_8_vx10shutdown.mp3" name="LG VX10 Shutdown" downloadtype="progressive" subtype="soundeffect" duration="4903" enable="Y" is_premium="N" aid="52086" money="0" sharing="0"/>
+  <sound id="goani_new_8_vx10startup.mp3" name="LG VX10 Startup" downloadtype="progressive" subtype="soundeffect" duration="4062" enable="Y" is_premium="N" aid="52087" money="0" sharing="0"/>
+  <sound id="goani_new_8_vx3400shutdown.mp3" name="LG VX3400 Shutdown" downloadtype="progressive" subtype="soundeffect" duration="4389" enable="Y" is_premium="N" aid="52088" money="0" sharing="0"/>
+  <sound id="goani_new_8_vx3400startup.mp3" name="LG VX3400 Startup" downloadtype="progressive" subtype="soundeffect" duration="5740" enable="Y" is_premium="N" aid="52089" money="0" sharing="0"/>
+  <sound id="goani_new_8_adamrunning.mp3" name="Adam Running" downloadtype="progressive" subtype="soundeffect" duration="3320" enable="Y" is_premium="N" aid="52090" money="0" sharing="0"/>
+  <sound id="goani_new_8_evewalking.mp3" name="Eve Walking" downloadtype="progressive" subtype="soundeffect" duration="5205" enable="Y" is_premium="N" aid="52091" money="0" sharing="0"/>
+  <sound id="goani_new_8_lgw7000boot.mp3" name="LG W7000 Boot" downloadtype="progressive" subtype="soundeffect" duration="9323" enable="Y" is_premium="N" aid="52092" money="0" sharing="0"/>
+  <sound id="goani_new_8_senpaifnf.mp3" name="FNF - Senpai" downloadtype="progressive" subtype="bgmusic" duration="142552" enable="Y" is_premium="N" aid="52093" money="0" sharing="0"/>
+  <sound id="goani_new_8_destiny.mp3" name="Destiny" downloadtype="progressive" subtype="bgmusic" duration="23274" enable="Y" is_premium="N" aid="52094" money="0" sharing="0"/>
+  <sound id="goani_new_8_sinkabiteintolife.mp3" name="Sink a Bite into Life" downloadtype="progressive" subtype="bgmusic" duration="522679" enable="Y" is_premium="N" aid="52095" money="0" sharing="0"/>
+  <sound id="goani_new_8_hollandboysiamgayinstru.mp3" name="Holland Boys - I am gay Ins" downloadtype="progressive" subtype="bgmusic" duration="345790" enable="Y" is_premium="N" aid="52096" money="0" sharing="0"/>
+  <sound id="goani_new_8_river.mp3" name="River" downloadtype="progressive" subtype="bgmusic" duration="509304" enable="Y" is_premium="N" aid="52097" money="0" sharing="0"/>
+  <sound id="goani_new_8_hollandboysiamgay.mp3" name="Holland Boys - I am gay" downloadtype="progressive" subtype="bgmusic" duration="345790" enable="Y" is_premium="N" aid="52098" money="0" sharing="0"/>
+  <sound id="goani_new_8_skrillexsmans.mp3" name="Skrillex - Scary Monsters and Nice Sprites" downloadtype="progressive" subtype="bgmusic" duration="405173" enable="Y" is_premium="N" aid="52099" money="0" sharing="0"/>
+  <sound id="goani_new_8_gameoverfnf.mp3" name="FNF - Game over" downloadtype="progressive" subtype="bgmusic" duration="38414" enable="Y" is_premium="N" aid="52100" money="0" sharing="0"/>
+  <sound id="goani_new_8_tutorialfnf.mp3" name="FNF - Tutorial" downloadtype="progressive" subtype="bgmusic" duration="107253" enable="Y" is_premium="N" aid="52101" money="0" sharing="0"/>
+  <sound id="goani_new_8_cidtestcourse.mp3" name="Cid's Test Course" downloadtype="progressive" subtype="bgmusic" duration="131155" enable="Y" is_premium="N" aid="52102" money="0" sharing="0"/>
+  <sound id="goani_new_8_glassbreak25window.mp3" name="Glassbreak 25" downloadtype="progressive" subtype="soundeffect" duration="1664" enable="Y" is_premium="N" aid="52103" money="0" sharing="0"/>
+  <sound id="goani_new_8_glassbreak24.mp3" name="Glassbreak 24" downloadtype="progressive" subtype="soundeffect" duration="1346" enable="Y" is_premium="N" aid="52104" money="0" sharing="0"/>
+  <sound id="goani_new_8_glassbreak23.mp3" name="Glassbreak 23" downloadtype="progressive" subtype="soundeffect" duration="1303" enable="Y" is_premium="N" aid="52105" money="0" sharing="0"/>
+  <sound id="goani_new_8_glassbreak22.mp3" name="Glassbreak 22" downloadtype="progressive" subtype="soundeffect" duration="5636" enable="Y" is_premium="N" aid="52106" money="0" sharing="0"/>
+  <sound id="goani_new_8_glassbreak21.mp3" name="Glassbreak 21" downloadtype="progressive" subtype="soundeffect" duration="4111" enable="Y" is_premium="N" aid="52107" money="0" sharing="0"/>
+  <sound id="goani_new_8_glassbreak20.mp3" name="Glassbreak 20" downloadtype="progressive" subtype="soundeffect" duration="2883" enable="Y" is_premium="N" aid="52108" money="0" sharing="0"/>
+  <sound id="goani_new_8_spaceandtime.mp3" name="Space and Time" downloadtype="progressive" subtype="bgmusic" duration="912452" enable="Y" is_premium="N" aid="52109" money="0" sharing="0"/>
+  <sound id="goani_new_8_trinity.mp3" name="Trinity" downloadtype="progressive" subtype="bgmusic" duration="940272" enable="Y" is_premium="N" aid="52110" money="0" sharing="0"/>
+  <sound id="goani_new_8_numbertwo.mp3" name="Number Two" downloadtype="progressive" subtype="bgmusic" duration="435057" enable="Y" is_premium="N" aid="52111" money="0" sharing="0"/>
+  <sound id="goani_new_8_speaktoangels.mp3" name="Speak to Angels" downloadtype="progressive" subtype="bgmusic" duration="1035704" enable="Y" is_premium="N" aid="52112" money="0" sharing="0"/>
+  <sound id="goani_new_8_withaspirit.mp3" name="With a Spirit" downloadtype="progressive" subtype="bgmusic" duration="958144" enable="Y" is_premium="N" aid="52113" money="0" sharing="0"/>
+  <sound id="goani_new_8_taank.mp3" name="TAANK" downloadtype="progressive" subtype="bgmusic" duration="118551" enable="Y" is_premium="N" aid="52114" money="0" sharing="0"/>
+  <sound id="goani_new_8_doggisdeath.mp3" name="Doggis death" downloadtype="progressive" subtype="soundeffect" duration="1707" enable="Y" is_premium="N" aid="52115" money="0" sharing="0"/>
+  <sound id="goani_new_8_juniorfeelingsimproved.mp3" name="Junior Feelings - Improved" downloadtype="progressive" subtype="bgmusic" duration="325859" enable="Y" is_premium="N" aid="52116" money="0" sharing="0"/>
+  <sound id="goani_new_8_donkeykongrap.mp3" name="Donkey Kong Rap" downloadtype="progressive" subtype="bgmusic" duration="311544" enable="Y" is_premium="N" aid="52117" money="0" sharing="0"/>
+  <sound id="goani_new_8_ifyounotlove.mp3" name="If you don't love" downloadtype="progressive" subtype="bgmusic" duration="327374" enable="Y" is_premium="N" aid="52118" money="0" sharing="0"/>
+  <sound id="goani_new_8_blackorchidsofficial.mp3" name="Black Orchids - Official" downloadtype="progressive" subtype="bgmusic" duration="359191" enable="Y" is_premium="N" aid="52119" money="0" sharing="0"/>
+  <sound id="goani_new_8_39.mp3" name="39" downloadtype="progressive" subtype="bgmusic" duration="328445" enable="Y" is_premium="N" aid="52120" money="0" sharing="0"/>
+  <sound id="goani_new_8_kingsdoyouwant.mp3" name="Kings - Do you want" downloadtype="progressive" subtype="bgmusic" duration="329882" enable="Y" is_premium="N" aid="52121" money="0" sharing="0"/>
+  <sound id="goani_new_8_juniorfeelingspartymix.mp3" name="Junior Feelings - Party mix" downloadtype="progressive" subtype="bgmusic" duration="434169" enable="Y" is_premium="N" aid="52122" money="0" sharing="0"/>
+  <sound id="goani_new_8_melynake.mp3" name="Blue eyes" downloadtype="progressive" subtype="bgmusic" duration="355743" enable="Y" is_premium="N" aid="52123" money="0" sharing="0"/>
+  <sound id="goani_new_8_bukisalia.mp3" name="Stay Behind" downloadtype="progressive" subtype="bgmusic" duration="327244" enable="Y" is_premium="N" aid="52124" money="0" sharing="0"/>
+  <sound id="goani_new_8_zarnapar.mp3" name="Zarnapar" downloadtype="progressive" subtype="soundeffect" duration="25066" enable="Y" is_premium="N" aid="52125" money="0" sharing="0"/>
+  <sound id="goani_new_8_wahwah.mp3" name="Wah Wah" downloadtype="progressive" subtype="soundeffect" duration="10052" enable="Y" is_premium="N" aid="52126" money="0" sharing="0"/>
+  <sound id="goani_new_8_vzwairwaves.mp3" name="Verizon Airwaves" downloadtype="progressive" subtype="bgmusic" duration="24060" enable="Y" is_premium="N" aid="52127" money="0" sharing="0"/>
+  <sound id="goani_new_8_verizonringtonenew.mp3" name="Verizon Ringtone New" downloadtype="progressive" subtype="soundeffect" duration="9131" enable="Y" is_premium="N" aid="52128" money="0" sharing="0"/>
+  <sound id="goani_new_8_verizonringtonemidi.mp3" name="Verizon Ringtone MIDI" downloadtype="progressive" subtype="soundeffect" duration="4156" enable="Y" is_premium="N" aid="52129" money="0" sharing="0"/>
+  <sound id="goani_new_8_verizonshutdownguitar.mp3" name="Verizon Guitar Shutdown" downloadtype="progressive" subtype="soundeffect" duration="1999" enable="Y" is_premium="N" aid="52130" money="0" sharing="0"/>
+  <sound id="goani_new_8_verizonstartupguitar.mp3" name="Verizon Guitar Startup" downloadtype="progressive" subtype="soundeffect" duration="4212" enable="Y" is_premium="N" aid="52131" money="0" sharing="0"/>
+  <sound id="goani_new_8_samsungunknownsound.mp3" name="Samsung Unknown Sound" downloadtype="progressive" subtype="soundeffect" duration="667" enable="Y" is_premium="N" aid="52132" money="0" sharing="0"/>
+  <sound id="goani_new_8_lgmetrostartup.mp3" name="LG Metro Startup" downloadtype="progressive" subtype="soundeffect" duration="6048" enable="Y" is_premium="N" aid="52133" money="0" sharing="0"/>
+  <sound id="goani_new_8_tick4000.mp3" name="4000 Tick" downloadtype="progressive" subtype="soundeffect" duration="1145" enable="Y" is_premium="N" aid="52134" money="0" sharing="0"/>
+  <sound id="goani_new_8_lgmetroshutdown.mp3" name="LG Metro Shutdown" downloadtype="progressive" subtype="soundeffect" duration="6048" enable="Y" is_premium="N" aid="52135" money="0" sharing="0"/>
+  <sound id="goani_new_8_o2ringtone.mp3" name="O2 Ringtone" downloadtype="progressive" subtype="bgmusic" duration="32245" enable="Y" is_premium="N" aid="52136" money="0" sharing="0"/>
+  <sound id="goani_new_8_dharmaringtone.mp3" name="Dharm Ringtone" downloadtype="progressive" subtype="bgmusic" duration="32815" enable="Y" is_premium="N" aid="52137" money="0" sharing="0"/>
+  <sound id="goani_new_8_lgstartupdolphins.mp3" name="LG Dolphins Startup" downloadtype="progressive" subtype="soundeffect" duration="5704" enable="Y" is_premium="N" aid="52138" money="0" sharing="0"/>
+  <sound id="goani_new_8_nokiafullstartup.mp3" name="Nokia Full Startup" downloadtype="progressive" subtype="soundeffect" duration="4411" enable="Y" is_premium="N" aid="52139" money="0" sharing="0"/>
+  <sound id="goani_new_8_verizonstartup2.mp3" name="Verizon Startup 2" downloadtype="progressive" subtype="soundeffect" duration="4194" enable="Y" is_premium="N" aid="52140" money="0" sharing="0"/>
+  <sound id="goani_new_8_verizonshutdown2.mp3" name="Verizon Shutdown 2" downloadtype="progressive" subtype="soundeffect" duration="2026" enable="Y" is_premium="N" aid="52141" money="0" sharing="0"/>
+  <sound id="goani_new_8_moodchangedrink.mp3" name="Mood change drinking" downloadtype="progressive" subtype="soundeffect" duration="8189" enable="Y" is_premium="N" aid="52142" money="0" sharing="0"/>
+  <sound id="goani_new_8_ringtonechinasitar.mp3" name="China sitar ringtone" downloadtype="progressive" subtype="bgmusic" duration="39694" enable="Y" is_premium="N" aid="52143" money="0" sharing="0"/>
+  <sound id="goani_new_8_lawofmotion.mp3" name="Law of Motion" downloadtype="progressive" subtype="bgmusic" duration="34313" enable="Y" is_premium="N" aid="52144" money="0" sharing="0"/>
+  <sound id="goani_new_8_loveringtone.mp3" name="Love Ringtone" downloadtype="progressive" subtype="bgmusic" duration="22584" enable="Y" is_premium="N" aid="52145" money="0" sharing="0"/>
+  <sound id="goani_new_8_lgbatterylow2.mp3" name="LG Battery Low 2" downloadtype="progressive" subtype="soundeffect" duration="1045" enable="Y" is_premium="N" aid="52146" money="0" sharing="0"/>
+  <sound id="goani_new_8_atttone.mp3" name="AT&T Tone" downloadtype="progressive" subtype="soundeffect" duration="7119" enable="Y" is_premium="N" aid="52147" money="0" sharing="0"/>
+  <sound id="goani_new_8_causeuare.mp3" name="Cause U Are" downloadtype="progressive" subtype="bgmusic" duration="27901" enable="Y" is_premium="N" aid="52148" money="0" sharing="0"/>
+  <sound id="goani_new_8_verizonstartup.mp3" name="Verizon Startup" downloadtype="progressive" subtype="soundeffect" duration="3384" enable="Y" is_premium="N" aid="52149" money="0" sharing="0"/>
+  <sound id="goani_new_8_justfine.mp3" name="Just Fine" downloadtype="progressive" subtype="bgmusic" duration="13897" enable="Y" is_premium="N" aid="52150" money="0" sharing="0"/>
+  <sound id="goani_new_8_verizonshutdown.mp3" name="Verizon Shutdown" downloadtype="progressive" subtype="soundeffect" duration="3175" enable="Y" is_premium="N" aid="52151" money="0" sharing="0"/>
+  <sound id="goani_new_8_lgstartup.mp3" name="LG Modern Startup" downloadtype="progressive" subtype="soundeffect" duration="3320" enable="Y" is_premium="N" aid="52152" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandsly1music.mp3" name="William and Sly - Music 1" downloadtype="progressive" subtype="bgmusic" duration="201771" enable="Y" is_premium="N" aid="52153" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslyjungleloop.mp3" name="William and Sly - Jungle" downloadtype="progressive" subtype="bgmusic" duration="21400" enable="Y" is_premium="N" aid="52154" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslyfairyfly.mp3" name="William and Sly - Fairyfly" downloadtype="progressive" subtype="soundeffect" duration="1764" enable="Y" is_premium="N" aid="52155" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslydarkdeath.mp3" name="William and Sly - Dark Death" downloadtype="progressive" subtype="soundeffect" duration="1764" enable="Y" is_premium="N" aid="52156" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslylock.mp3" name="William and Sly - Lock" downloadtype="progressive" subtype="soundeffect" duration="1764" enable="Y" is_premium="N" aid="52157" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslyterror.mp3" name="William and Sly - Terror" downloadtype="progressive" subtype="soundeffect" duration="7328" enable="Y" is_premium="N" aid="52158" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslyrunestone.mp3" name="William and Sly - Runestone" downloadtype="progressive" subtype="soundeffect" duration="2522" enable="Y" is_premium="N" aid="52159" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslymushroom.mp3" name="William and Sly - Mushroom" downloadtype="progressive" subtype="soundeffect" duration="902" enable="Y" is_premium="N" aid="52160" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslyghostsqueal.mp3" name="William and Sly - Ghost Squeal 1" downloadtype="progressive" subtype="soundeffect" duration="3462" enable="Y" is_premium="N" aid="52161" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslyghostsqueal2.mp3" name="William and Sly - Ghost Squeal 2" downloadtype="progressive" subtype="soundeffect" duration="3906" enable="Y" is_premium="N" aid="52162" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslywind.mp3" name="William and Sly - Wind" downloadtype="progressive" subtype="soundeffect" duration="10176" enable="Y" is_premium="N" aid="52163" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslythunder2.mp3" name="William and Sly - Thunder 2" downloadtype="progressive" subtype="soundeffect" duration="10202" enable="Y" is_premium="N" aid="52164" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslythunder1.mp3" name="William and Sly - Thunder 1" downloadtype="progressive" subtype="soundeffect" duration="10202" enable="Y" is_premium="N" aid="52165" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslyrain.mp3" name="William and Sly - Rain" downloadtype="progressive" subtype="soundeffect" duration="3488" enable="Y" is_premium="N" aid="52166" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslyowl.mp3" name="William and Sly - Owl" downloadtype="progressive" subtype="soundeffect" duration="3358" enable="Y" is_premium="N" aid="52167" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslybird5.mp3" name="William and Sly - Bird 5" downloadtype="progressive" subtype="soundeffect" duration="5082" enable="Y" is_premium="N" aid="52168" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslybird4.mp3" name="William and Sly - Bird 4" downloadtype="progressive" subtype="soundeffect" duration="3906" enable="Y" is_premium="N" aid="52169" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslybird3.mp3" name="William and Sly - Bird 3" downloadtype="progressive" subtype="soundeffect" duration="3959" enable="Y" is_premium="N" aid="52170" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslybird2.mp3" name="William and Sly - Bird 2" downloadtype="progressive" subtype="soundeffect" duration="4795" enable="Y" is_premium="N" aid="52171" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslybird1.mp3" name="William and Sly - Bird 1" downloadtype="progressive" subtype="soundeffect" duration="4768" enable="Y" is_premium="N" aid="52172" money="0" sharing="0"/>
+  <sound id="goani_new_8_newgroundsintro.mp3" name="Newgrounds Intro" downloadtype="progressive" subtype="soundeffect" duration="8713" enable="Y" is_premium="N" aid="52173" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslylogo.mp3" name="William and Sly - Logo" downloadtype="progressive" subtype="soundeffect" duration="1764" enable="Y" is_premium="N" aid="52174" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandsly2music.mp3" name="William and Sly - Music 2" downloadtype="progressive" subtype="bgmusic" duration="242809" enable="Y" is_premium="N" aid="52175" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslyrock.mp3" name="William and Sly - Rock" downloadtype="progressive" subtype="soundeffect" duration="2652" enable="Y" is_premium="N" aid="52176" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslyblast.mp3" name="William and Sly - Blast" downloadtype="progressive" subtype="soundeffect" duration="3541" enable="Y" is_premium="N" aid="52178" money="0" sharing="0"/>
+  <sound id="goani_new_8_williamandslyohnem.mp3" name="William and Sly - Ohnem" downloadtype="progressive" subtype="soundeffect" duration="2835" enable="Y" is_premium="N" aid="52179" money="0" sharing="0"/>
+  <sound id="goani_new_8_angrytoasterman.mp3" name="Angry Toaster Man" downloadtype="progressive" subtype="soundeffect" duration="42296" enable="Y" is_premium="N" aid="52180" money="0" sharing="0"/>
+  <sound id="goani_new_8_windows98startupsound.mp3" name="Windows 98 Startup Sound" downloadtype="progressive" subtype="soundeffect" duration="7642" enable="Y" is_premium="N" aid="52181" money="0" sharing="0"/>
+  <sound id="goani_new_8_aprilneutralenvironment.mp3" name="April Neutral Environment" downloadtype="progressive" subtype="bgmusic" duration="354716" enable="Y" is_premium="N" aid="52182" money="0" sharing="0"/>
   <sound id="122_short_dance_of_the_sugar_plum_fairy_0061.mp3" name="Dance of the Sugar Plum Fairy" downloadtype="progressive" subtype="bgmusic" duration="60473" enable="Y" is_premium="N" aid="28101" money="0" sharing="0">
     <variation id="122_short_dance_of_the_sugar_plum_fairy_0019.mp3" name="Short track" downloadtype="progressive" subtype="bgmusic" duration="18051" enable="Y" is_premium="N" aid="28102" money="0" sharing="0"/>
     <variation id="122_short_dance_of_the_sugar_plum_fairy_0035.mp3" name="Short track" downloadtype="progressive" subtype="bgmusic" duration="34560" enable="Y" is_premium="N" aid="28103" money="0" sharing="0"/>
